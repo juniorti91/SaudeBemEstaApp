@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5C5CB6-F91C-4E79-B1C4-8253F0056855}|SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5C5CB6-F91C-4E79-B1C4-8253F0056855}|SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj|solutionrelative:saudebemestaapp.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.patient\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|solutionrelative:saudebemestaapp.patient\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.patient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|solutionrelative:saudebemestaapp.patient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB27309-7F27-4B2A-9585-527FCAA84639}|SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.domain\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB27309-7F27-4B2A-9585-527FCAA84639}|SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj|solutionrelative:saudebemestaapp.domain\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB27309-7F27-4B2A-9585-527FCAA84639}|SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.domain\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB27309-7F27-4B2A-9585-527FCAA84639}|SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj|solutionrelative:saudebemestaapp.domain\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB27309-7F27-4B2A-9585-527FCAA84639}|SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.domain\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB27309-7F27-4B2A-9585-527FCAA84639}|SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj|solutionrelative:saudebemestaapp.domain\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.patient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|solutionrelative:saudebemestaapp.patient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.patient\\saudebemestaapp.patients.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|solutionrelative:saudebemestaapp.patient\\saudebemestaapp.patients.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5C5CB6-F91C-4E79-B1C4-8253F0056855}|SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.infrastructure\\saudebemestaapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC5C5CB6-F91C-4E79-B1C4-8253F0056855}|SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj|solutionrelative:saudebemestaapp.infrastructure\\saudebemestaapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5C5CB6-F91C-4E79-B1C4-8253F0056855}|SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5C5CB6-F91C-4E79-B1C4-8253F0056855}|SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj|solutionrelative:saudebemestaapp.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB27309-7F27-4B2A-9585-527FCAA84639}|SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB27309-7F27-4B2A-9585-527FCAA84639}|SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj|solutionrelative:saudebemestaapp.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5C5CB6-F91C-4E79-B1C4-8253F0056855}|SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.infrastructure\\migrations\\20240522014957_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5C5CB6-F91C-4E79-B1C4-8253F0056855}|SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj|solutionrelative:saudebemestaapp.infrastructure\\migrations\\20240522014957_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Domain\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Domain\\Interfaces\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:58:44.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240522014957_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\Migrations\\20240522014957_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Infrastructure\\Migrations\\20240522014957_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\Migrations\\20240522014957_InitialCreate.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Infrastructure\\Migrations\\20240522014957_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:49:57.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaudeBemEstaApp.Patients.API.csproj",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
+              "RelativeToolTip": "SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T01:48:46.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaudeBemEstaApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
+              "RelativeToolTip": "SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T01:37:35.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\appsettings.json",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\appsettings.json",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\appsettings.json",
+              "RelativeToolTip": "SaudeBemEstaApp.Patient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T01:24:17.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Program.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\Program.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Program.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Patient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:19:41.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:46:00.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:41:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Patient\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:12:46.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Domain\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\Services\\PatientService.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Domain\\Services\\PatientService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:03:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Domain\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Domain\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:00:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Domain\\Entities\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:59:08.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

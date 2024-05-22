@@ -1,0 +1,8 @@
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patient.csproj.AssemblyReference.cache
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patient.AssemblyInfoInputs.cache
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patient.AssemblyInfo.cs
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patient.csproj.CoreCompileInputs.cache
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patient.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patient.sourcelink.json

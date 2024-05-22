@@ -1,0 +1,12 @@
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\bin\Debug\net6.0\SaudeBemEstaApp.Domain.deps.json
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\bin\Debug\net6.0\SaudeBemEstaApp.Domain.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\bin\Debug\net6.0\SaudeBemEstaApp.Domain.pdb
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.AssemblyInfo.cs
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.sourcelink.json
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\refint\SaudeBemEstaApp.Domain.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.pdb
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\ref\SaudeBemEstaApp.Domain.dll
