@@ -16,13 +16,13 @@ namespace SaudeBemEstaApp.Patients.API.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<Patient>> Get() 
+        public async Task<IEnumerable<Patient>> GetPatients() 
         {
             return await _patientService.GetAllPatientsAsync();
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Patient>> Get(int id)
+        public async Task<ActionResult<Patient>> GetPatient(int id)
         {
             var patient = await _patientService.GetPatientByIdAsync(id);
             if (patient == null)
@@ -34,14 +34,14 @@ namespace SaudeBemEstaApp.Patients.API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] Patient patient)
+        public async Task<IActionResult> AddPatient([FromBody] Patient patient)
         {
             await _patientService.AddPatientAsync(patient);
-            return CreatedAtAction(nameof(Get), new { id = patient.Id }, patient);
+            return CreatedAtAction(nameof(GetPatient), new { id = patient.Id }, patient);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Put(int id, [FromBody] Patient patient)
+        public async Task<IActionResult> UpdatePatient(int id, [FromBody] Patient patient)
         {
             if (id != patient.Id) return BadRequest();
             await _patientService.UpdatePatientAsync(patient);
@@ -49,7 +49,7 @@ namespace SaudeBemEstaApp.Patients.API.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
+        public async Task<IActionResult> DeletePatient(int id)
         {
             await _patientService.DeletePatientAsync(id);
             return NoContent();

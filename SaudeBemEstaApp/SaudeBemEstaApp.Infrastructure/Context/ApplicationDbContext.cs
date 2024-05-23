@@ -13,6 +13,7 @@ namespace SaudeBemEstaApp.Infrastructure.Context
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
 
         public DbSet<Patient> Patients { get; set; }
+        public DbSet<Appointment> Appointments { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
