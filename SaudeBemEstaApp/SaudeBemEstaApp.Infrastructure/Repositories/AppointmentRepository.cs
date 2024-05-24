@@ -2,11 +2,6 @@
 using SaudeBemEstaApp.Domain.Entities;
 using SaudeBemEstaApp.Domain.Interfaces;
 using SaudeBemEstaApp.Infrastructure.Context;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SaudeBemEstaApp.Infrastructure.Repositories
 {

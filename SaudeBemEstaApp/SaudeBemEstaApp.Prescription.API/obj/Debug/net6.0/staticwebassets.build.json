@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "9xRQ5w8spfOTIgeWgnJTPRsR/mj1haDxN4JoyolIZsE=",
-  "Source": "SaudeBemEstaApp.Prescription.API",
-  "BasePath": "_content/SaudeBemEstaApp.Prescription.API",
+  "Hash": "ojr8LQc7EOE+3oJsNTefWVTG6aAzc2ZUV1gr+8xgoeo=",
+  "Source": "SaudeBemEstaApp.Prescriptions.API",
+  "BasePath": "_content/SaudeBemEstaApp.Prescriptions.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

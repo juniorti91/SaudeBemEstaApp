@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaudeBemEstaApp.Infrastruct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaudeBemEstaApp.Appointments.API", "SaudeBemEstaApp.Appointment.API\SaudeBemEstaApp.Appointments.API.csproj", "{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaudeBemEstaApp.Prescription.API", "SaudeBemEstaApp.Prescription.API\SaudeBemEstaApp.Prescription.API.csproj", "{6D30873B-B1F4-460C-97ED-4A81D420EE4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaudeBemEstaApp.Prescriptions.API", "SaudeBemEstaApp.Prescription.API\SaudeBemEstaApp.Prescriptions.API.csproj", "{6D30873B-B1F4-460C-97ED-4A81D420EE4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaudeBemEstaApp.Activities.API", "SaudeBemEstaApp.Activity.API\SaudeBemEstaApp.Activities.API.csproj", "{FB637946-7DF7-40BA-9732-EB924AFECBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaudeBemEstaApp.Notifications.API", "SaudeBemEstaApp.Notifications.API\SaudeBemEstaApp.Notifications.API.csproj", "{9E2468FA-B781-4829-BB98-D1634123A8F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{6D30873B-B1F4-460C-97ED-4A81D420EE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D30873B-B1F4-460C-97ED-4A81D420EE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D30873B-B1F4-460C-97ED-4A81D420EE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB637946-7DF7-40BA-9732-EB924AFECBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB637946-7DF7-40BA-9732-EB924AFECBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB637946-7DF7-40BA-9732-EB924AFECBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB637946-7DF7-40BA-9732-EB924AFECBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
