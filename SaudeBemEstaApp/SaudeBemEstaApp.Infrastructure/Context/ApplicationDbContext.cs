@@ -1,10 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SaudeBemEstaApp.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SaudeBemEstaApp.Infrastructure.Context
 {
@@ -14,6 +9,7 @@ namespace SaudeBemEstaApp.Infrastructure.Context
 
         public DbSet<Patient> Patients { get; set; }
         public DbSet<Appointment> Appointments { get; set; }
+        public DbSet<Prescription> Prescriptions { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

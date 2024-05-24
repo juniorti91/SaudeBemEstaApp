@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9xRQ5w8spfOTIgeWgnJTPRsR/mj1haDxN4JoyolIZsE=",
+  "Source": "SaudeBemEstaApp.Prescription.API",
+  "BasePath": "_content/SaudeBemEstaApp.Prescription.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

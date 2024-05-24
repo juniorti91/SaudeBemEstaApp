@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SaudeBemEstaApp.Prescription.API.props" />
+</Project>
