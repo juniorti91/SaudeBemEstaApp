@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SaudeBemEstaApp.Notifications.API.props" />
-</Project>

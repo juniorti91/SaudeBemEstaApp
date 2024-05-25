@@ -21,3 +21,7 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\n
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\refint\SaudeBemEstaApp.Domain.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.pdb
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\ref\SaudeBemEstaApp.Domain.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\bin\Debug\net6.0\SaudeBemEstaApp.Messaging.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\bin\Debug\net6.0\SaudeBemEstaApp.Messaging.pdb
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBem.6BD89BF3.Up2Date

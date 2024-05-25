@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SaudeBemEstaApp.Activities.API.props" />
-</Project>

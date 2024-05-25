@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\SaudeBemEstaApp.Activities.API.props" />
-</Project>
