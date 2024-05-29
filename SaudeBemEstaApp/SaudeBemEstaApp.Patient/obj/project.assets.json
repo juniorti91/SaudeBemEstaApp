@@ -3464,23 +3464,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JuniorDev\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\adroaldo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
+      "projectUniqueName": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
       "projectName": "SaudeBemEstaApp.Patients.API",
-      "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
-      "packagesPath": "C:\\Users\\JuniorDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\obj\\",
+      "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
+      "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JuniorDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adroaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3496,11 +3498,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj"
+            "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj"
             },
-            "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj"
+            "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj"
             }
           }
         }
@@ -3509,11 +3511,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3550,7 +3547,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

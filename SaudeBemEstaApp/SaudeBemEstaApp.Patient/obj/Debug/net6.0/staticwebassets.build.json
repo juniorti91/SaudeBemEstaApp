@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cKaUAl0CGolhM2JXMCA26RMSRw7O+k+hdN4jYX2TT14=",
+  "Source": "SaudeBemEstaApp.Patients.API",
+  "BasePath": "_content/SaudeBemEstaApp.Patients.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
