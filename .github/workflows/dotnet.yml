@@ -21,38 +21,38 @@ jobs:
       - name: Restaurar dependências
         run: |
           cd SaudeBemEstaApp
-          dotnet restore ./SaudeBemEstaApp.Activity.API/SaudeBemEstaApp.Activity.API.csproj
-          dotnet restore ./SaudeBemEstaApp.Appointment.API/SaudeBemEstaApp.Appointment.API.csproj
-          dotnet restore ./SaudeBemEstaApp.Domain/SaudeBemEstaApp.Domain.csproj
-          dotnet restore ./SaudeBemEstaApp.Infrastructure/SaudeBemEstaApp.Infrastructure.csproj
-          dotnet restore ./SaudeBemEstaApp.Messaging/SaudeBemEstaApp.Messaging.csproj
-          dotnet restore ./SaudeBemEstaApp.Notifications.API/SaudeBemEstaApp.Notifications.API.csproj
-          dotnet restore ./SaudeBemEstaApp.Patient/SaudeBemEstaApp.Patient.csproj
-          dotnet restore ./SaudeBemEstaApp.Prescription.API/SaudeBemEstaApp.Prescription.API.csproj
+          dotnet restore ./SaudeBemEstaApp.Activity.API.csproj
+          dotnet restore ./SaudeBemEstaApp.Appointment.API.csproj
+          dotnet restore ./SaudeBemEstaApp.Domain.csproj
+          dotnet restore ./SaudeBemEstaApp.Infrastructure.csproj
+          dotnet restore ./SaudeBemEstaApp.Messaging.csproj
+          dotnet restore ./SaudeBemEstaApp.Notifications.API.csproj
+          dotnet restore ./SaudeBemEstaApp.Patient.csproj
+          dotnet restore ./SaudeBemEstaApp.Prescription.API.csproj
 
       - name: Compilar
         run: |
           cd SaudeBemEstaApp
-          dotnet build ./SaudeBemEstaApp.Activity.API/SaudeBemEstaApp.Activity.API.csproj --configuration Release --no-restore
-          dotnet build ./SaudeBemEstaApp.Appointment.API/SaudeBemEstaApp.Appointment.API.csproj --configuration Release --no-restore
-          dotnet build ./SaudeBemEstaApp.Domain/SaudeBemEstaApp.Domain.csproj --configuration Release --no-restore
-          dotnet build ./SaudeBemEstaApp.Infrastructure/SaudeBemEstaApp.Infrastructure.csproj --configuration Release --no-restore
-          dotnet build ./SaudeBemEstaApp.Messaging/SaudeBemEstaApp.Messaging.csproj --configuration Release --no-restore
-          dotnet build ./SaudeBemEstaApp.Notifications.API/SaudeBemEstaApp.Notifications.API.csproj --configuration Release --no-restore
-          dotnet build ./SaudeBemEstaApp.Patient/SaudeBemEstaApp.Patient.csproj --configuration Release --no-restore
-          dotnet build ./SaudeBemEstaApp.Prescription.API/SaudeBemEstaApp.Prescription.API.csproj --configuration Release --no-restore
+          dotnet build ./SaudeBemEstaApp.Activity.API.csproj --configuration Release --no-restore
+          dotnet build ./SaudeBemEstaApp.Appointment.API.csproj --configuration Release --no-restore
+          dotnet build ./SaudeBemEstaApp.Domain.csproj --configuration Release --no-restore
+          dotnet build ./SaudeBemEstaApp.Infrastructure.csproj --configuration Release --no-restore
+          dotnet build ./SaudeBemEstaApp.Messaging.csproj --configuration Release --no-restore
+          dotnet build ./SaudeBemEstaApp.Notifications.API.csproj --configuration Release --no-restore
+          dotnet build ./SaudeBemEstaApp.Patient.csproj --configuration Release --no-restore
+          dotnet build ./SaudeBemEstaApp.Prescription.API.csproj --configuration Release --no-restore
 
       - name: Publicar
         run: |
           cd SaudeBemEstaApp
-          dotnet publish ./SaudeBemEstaApp.Activity.API/SaudeBemEstaApp.Activity.API.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Activity.API
-          dotnet publish ./SaudeBemEstaApp.Appointment.API/SaudeBemEstaApp.Appointment.API.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Appointment.API
-          dotnet publish ./SaudeBemEstaApp.Domain/SaudeBemEstaApp.Domain.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Domain
-          dotnet publish ./SaudeBemEstaApp.Infrastructure/SaudeBemEstaApp.Infrastructure.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Infrastructure
-          dotnet publish ./SaudeBemEstaApp.Messaging/SaudeBemEstaApp.Messaging.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Messaging
-          dotnet publish ./SaudeBemEstaApp.Notifications.API/SaudeBemEstaApp.Notifications.API.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Notifications.API
-          dotnet publish ./SaudeBemEstaApp.Patient/SaudeBemEstaApp.Patient.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Patient
-          dotnet publish ./SaudeBemEstaApp.Prescription.API/SaudeBemEstaApp.Prescription.API.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Prescription.API
+          dotnet publish .SaudeBemEstaApp.Activity.API.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Activity.API
+          dotnet publish ./SaudeBemEstaApp.Appointment.API.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Appointment.API
+          dotnet publish ./SaudeBemEstaApp.Domain.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Domain
+          dotnet publish ./SaudeBemEstaApp.Infrastructure.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Infrastructure
+          dotnet publish ./SaudeBemEstaApp.Messaging.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Messaging
+          dotnet publish ./SaudeBemEstaApp.Notifications.API.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Notifications.API
+          dotnet publish . --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Patient
+          dotnet publish .SaudeBemEstaApp.Prescription.API.csproj --configuration Release --no-restore -o ./publish/SaudeBemEstaApp.Prescription.API
 
       - name: Configurar Docker Buildx
         uses: docker/setup-buildx-action@v1
