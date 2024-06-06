@@ -20,7 +20,7 @@ services:
       - "8003:80"
 
   patient-api:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient.API
+    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient
     image: adroaldojr/patientapi:v3
     ports:
       - "8004:80"
