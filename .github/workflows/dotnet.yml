@@ -28,7 +28,7 @@ jobs:
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API/Dockerfile
         push: true
         tags: adroaldojr/activityapi:v3
-        build-args:
+        build-args: 
           BUILD_CONFIGURATION: Release
 
     - name: Build and push appointment-api
@@ -38,7 +38,7 @@ jobs:
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Appointment.API/Dockerfile
         push: true
         tags: adroaldojr/appointmentapi:v3
-        build-args:
+        build-args: 
           BUILD_CONFIGURATION: Release
 
     - name: Build and push notifications-api
@@ -48,7 +48,7 @@ jobs:
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Notifications.API/Dockerfile
         push: true
         tags: adroaldojr/notificationsapi:v3
-        build-args:
+        build-args: 
           BUILD_CONFIGURATION: Release
 
     - name: Build and push patient-api
@@ -58,7 +58,7 @@ jobs:
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient/Dockerfile
         push: true
         tags: adroaldojr/patientapi:v3
-        build-args:
+        build-args: 
           BUILD_CONFIGURATION: Release
 
     - name: Build and push prescription-api
@@ -68,5 +68,5 @@ jobs:
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Prescription.API/Dockerfile
         push: true
         tags: adroaldojr/prescriptionapi:v3
-        build-args:
+        build-args: 
           BUILD_CONFIGURATION: Release
