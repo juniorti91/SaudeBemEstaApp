@@ -2,13 +2,13 @@ version: '3.8'
 
 services:
   activity-api:
-    build: ./SaudeBemEstaApp.Activity.API
+    build: ./SaudeBemEstaApp.Activies.API
     image: adroaldojr/activityapi:v1
     ports:
       - "8001:80"
 
   appointment-api:
-    build: ./SaudeBemEstaApp.Appointment.API
+    build: ./SaudeBemEstaApp.Appointments.API
     image: adroaldojr/appointmentapi:v1
     ports:
       - "8002:80"
@@ -20,13 +20,13 @@ services:
       - "8003:80"
 
   patient-api:
-    build: ./SaudeBemEstaApp.Patient.API
+    build: ./SaudeBemEstaApp.Patients.API
     image: adroaldojr/patientapi:v1
     ports:
       - "8004:80"
 
   prescription-api:
-    build: ./SaudeBemEstaApp.Prescription.API
+    build: ./SaudeBemEstaApp.Prescriptions.API
     image: adroaldojr/prescriptionapi:v1
     ports:
       - "8005:80"
