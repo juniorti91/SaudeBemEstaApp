@@ -9,9 +9,7 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["SaudeBemEstaApp.Prescription.API/SaudeBemEstaApp.Prescriptions.API.csproj", "SaudeBemEstaApp.Prescription.API/"]
-COPY ["SaudeBemEstaApp.Domain/SaudeBemEstaApp.Domain.csproj", "SaudeBemEstaApp.Domain/"]
-COPY ["SaudeBemEstaApp.Messaging/SaudeBemEstaApp.Messaging.csproj", "SaudeBemEstaApp.Messaging/"]
-COPY ["SaudeBemEstaApp.Infrastructure/SaudeBemEstaApp.Infrastructure.csproj", "SaudeBemEstaApp.Infrastructure/"]
+COPY ["SaudeBemEstaApp.Domain/SaudeBemEstaApp.Domain.csproj", "SaudeBemEstaApp.Domain/"]COPY ["SaudeBemEstaApp.Infrastructure/SaudeBemEstaApp.Infrastructure.csproj", "SaudeBemEstaApp.Infrastructure/"]
 RUN dotnet restore "./SaudeBemEstaApp.Prescription.API/SaudeBemEstaApp.Prescriptions.API.csproj"
 COPY . .
 WORKDIR "/src/SaudeBemEstaApp.Prescription.API"

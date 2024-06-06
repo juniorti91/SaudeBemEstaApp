@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaudeBemEstaApp.Activities.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da4ff71739dfd0791a5000b0fe4a1408111b9830")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaudeBemEstaApp.Activities.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaudeBemEstaApp.Activities.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

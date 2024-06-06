@@ -10,7 +10,6 @@ ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["SaudeBemEstaApp.Notifications.API/SaudeBemEstaApp.Notifications.API.csproj", "SaudeBemEstaApp.Notifications.API/"]
 COPY ["SaudeBemEstaApp.Domain/SaudeBemEstaApp.Domain.csproj", "SaudeBemEstaApp.Domain/"]
-COPY ["SaudeBemEstaApp.Messaging/SaudeBemEstaApp.Messaging.csproj", "SaudeBemEstaApp.Messaging/"]
 COPY ["SaudeBemEstaApp.Infrastructure/SaudeBemEstaApp.Infrastructure.csproj", "SaudeBemEstaApp.Infrastructure/"]
 RUN dotnet restore "./SaudeBemEstaApp.Notifications.API/SaudeBemEstaApp.Notifications.API.csproj"
 COPY . .

@@ -17,8 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaudeBemEstaApp.Activities.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaudeBemEstaApp.Notifications.API", "SaudeBemEstaApp.Notifications.API\SaudeBemEstaApp.Notifications.API.csproj", "{9E2468FA-B781-4829-BB98-D1634123A8F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaudeBemEstaApp.Messaging", "SaudeBemEstaApp.Messaging\SaudeBemEstaApp.Messaging.csproj", "{382F8ED7-B85C-493F-9BE4-8A7FD9886D84}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{FB91988D-EA0B-4A2E-A8BF-C713657D58EA}"
 	ProjectSection(SolutionItems) = preProject
 		docker-compose.yml = docker-compose.yml
@@ -58,10 +56,6 @@ Global
 		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{382F8ED7-B85C-493F-9BE4-8A7FD9886D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{382F8ED7-B85C-493F-9BE4-8A7FD9886D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{382F8ED7-B85C-493F-9BE4-8A7FD9886D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{382F8ED7-B85C-493F-9BE4-8A7FD9886D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

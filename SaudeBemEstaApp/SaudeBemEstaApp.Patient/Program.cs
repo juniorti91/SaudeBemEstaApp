@@ -21,10 +21,6 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddScoped<IPatientRepository, PatientRepository>();
 builder.Services.AddScoped<IPatientService, PatientService>();
 
-// Registrar o RabbitMQPublisher como Singleton
-builder.Services.AddSingleton<RabbitMQPublisher>(sp =>
-    new RabbitMQPublisher(builder.Configuration.GetValue<string>("RabbitMQ:HostName")));
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

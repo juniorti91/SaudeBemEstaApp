@@ -20,7 +20,6 @@
   <ItemGroup>
     <ProjectReference Include="..\SaudeBemEstaApp.Domain\SaudeBemEstaApp.Domain.csproj" />
     <ProjectReference Include="..\SaudeBemEstaApp.Infrastructure\SaudeBemEstaApp.Infrastructure.csproj" />
-    <ProjectReference Include="..\SaudeBemEstaApp.Messaging\SaudeBemEstaApp.Messaging.csproj" />
   </ItemGroup>
 
 </Project>

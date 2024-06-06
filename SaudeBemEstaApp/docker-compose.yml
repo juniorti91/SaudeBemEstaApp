@@ -36,6 +36,3 @@ services:
 
   infrastructure:
     build: ./SaudeBemEstaApp/SaudeBemEstaApp.Infrastructure
-
-  messaging:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Messaging
