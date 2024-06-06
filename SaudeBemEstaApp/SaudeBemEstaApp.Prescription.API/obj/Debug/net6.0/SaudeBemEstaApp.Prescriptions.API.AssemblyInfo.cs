@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("e01f467d-1a4a-430e-8bfd-ac69d15080f0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaudeBemEstaApp.Prescriptions.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ba5b3f0aca3dcf923414d590e888dd92f61cca")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaudeBemEstaApp.Prescriptions.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaudeBemEstaApp.Prescriptions.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

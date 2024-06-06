@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj": {}
+    "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj": {
+    "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj",
+        "projectUniqueName": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj",
         "projectName": "SaudeBemEstaApp.Appointments.API",
-        "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj",
-        "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\obj\\",
+        "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj",
+        "packagesPath": "C:\\Users\\JuniorDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adroaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JuniorDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -34,14 +33,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj"
+              "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj"
               },
-              "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj"
+              "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj"
               },
-              "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
-                "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj"
+              "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
+                "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj"
               }
             }
           }
@@ -50,6 +49,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,6 +65,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.30, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -78,6 +86,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -86,25 +112,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
+    "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
         "projectName": "SaudeBemEstaApp.Domain",
-        "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\obj\\",
+        "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\JuniorDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adroaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JuniorDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -120,8 +145,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
-                "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj"
+              "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
+                "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj"
               }
             }
           }
@@ -130,6 +155,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -152,30 +182,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj": {
+    "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
         "projectName": "SaudeBemEstaApp.Infrastructure",
-        "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\JuniorDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adroaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JuniorDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -191,8 +234,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
-                "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj"
+              "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj"
               }
             }
           }
@@ -201,6 +244,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -239,30 +287,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
+    "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
+        "projectUniqueName": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
         "projectName": "SaudeBemEstaApp.Messaging",
-        "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
-        "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\obj\\",
+        "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
+        "packagesPath": "C:\\Users\\JuniorDev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adroaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JuniorDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -284,6 +345,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -314,12 +380,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

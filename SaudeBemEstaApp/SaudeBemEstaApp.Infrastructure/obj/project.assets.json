@@ -3057,25 +3057,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adroaldo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\JuniorDev\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
       "projectName": "SaudeBemEstaApp.Infrastructure",
-      "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\SaudeBemEstaApp.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\JuniorDev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\adroaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JuniorDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3091,8 +3089,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj"
+            "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj"
             }
           }
         }
@@ -3101,6 +3099,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3139,12 +3142,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.30, 6.0.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.30, 6.0.30]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.30, 6.0.30]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("2d0a8580-b704-4222-841d-7e25689564e8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaudeBemEstaApp.Notifications.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ba5b3f0aca3dcf923414d590e888dd92f61cca")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaudeBemEstaApp.Notifications.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaudeBemEstaApp.Notifications.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
