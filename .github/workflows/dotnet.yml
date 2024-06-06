@@ -27,7 +27,7 @@ jobs:
         context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API/Dockerfile
         push: true
-        tags: adroaldojr/activityapi:v2
+        tags: adroaldojr/activityapi:v3
 
     - name: Build and push appointment-api
       uses: docker/build-push-action@v2
@@ -35,7 +35,7 @@ jobs:
         context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Appointment.API/Dockerfile
         push: true
-        tags: adroaldojr/appointmentapi:v2
+        tags: adroaldojr/appointmentapi:v3
 
     - name: Build and push notifications-api
       uses: docker/build-push-action@v2
@@ -43,7 +43,7 @@ jobs:
         context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Notifications.API/Dockerfile
         push: true
-        tags: adroaldojr/notificationsapi:v2
+        tags: adroaldojr/notificationsapi:v3
 
     - name: Build and push patient-api
       uses: docker/build-push-action@v2
@@ -51,7 +51,7 @@ jobs:
         context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient/Dockerfile
         push: true
-        tags: adroaldojr/patientapi:v2
+        tags: adroaldojr/patientapi:v3
 
     - name: Build and push prescription-api
       uses: docker/build-push-action@v2
@@ -59,4 +59,4 @@ jobs:
         context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Prescription.API/Dockerfile
         push: true
-        tags: adroaldojr/prescriptionapi:v2
+        tags: adroaldojr/prescriptionapi:v3
