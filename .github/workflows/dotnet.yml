@@ -24,7 +24,7 @@ jobs:
     - name: Build and push activity-api
       uses: docker/build-push-action@v2
       with:
-        context: ./SaudeBemEstaApp.Activies.API
+        context: ./SaudeBemEstaApp.Activity.API
         file: ./SaudeBemEstaApp.Activity.API/Dockerfile
         push: true
         tags: adroaldojr/activityapi:v1
