@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  activity-api:
+    build: ./SaudeBemEstaApp.Activity.API
+    image: seu_usuario_dockerhub/saudebemestaapp-activity-api:latest
+    ports:
+      - "8001:80"
+
+  appointment-api:
+    build: ./SaudeBemEstaApp.Appointment.API
+    image: seu_usuario_dockerhub/saudebemestaapp-appointment-api:latest
+    ports:
+      - "8002:80"
+
+  notifications-api:
+    build: ./SaudeBemEstaApp.Notifications.API
+    image: seu_usuario_dockerhub/saudebemestaapp-notifications-api:latest
+    ports:
+      - "8003:80"
+
+  prescription-api:
+    build: ./SaudeBemEstaApp.Prescription.API
+    image: seu_usuario_dockerhub/saudebemestaapp-prescription-api:latest
+    ports:
+      - "8004:80"
+
+  domain:
+    build: ./SaudeBemEstaApp.Domain
+
+  infrastructure:
+    build: ./SaudeBemEstaApp.Infrastructure
+
+  messaging:
+    build: ./SaudeBemEstaApp.Messaging
