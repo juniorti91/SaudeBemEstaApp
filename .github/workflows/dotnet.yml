@@ -1,0 +1,62 @@
+name: Build and Push Docker images
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'SaudeBemEstaApp.*/**'
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Log in to Docker Hub
+      uses: docker/login-action@v1
+      with:
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
+
+    - name: Build and push Activity API image
+      uses: docker/build-push-action@v2
+      with:
+        context: ./SaudeBemEstaApp.Activity.API
+        file: ./SaudeBemEstaApp.Activity.API/Dockerfile
+        push: true
+        tags: adroaldojr/activityapi:v1
+
+    - name: Build and push Appointment API image
+      uses: docker/build-push-action@v2
+      with:
+        context: ./SaudeBemEstaApp.Appointment.API
+        file: ./SaudeBemEstaApp.Appointment.API/Dockerfile
+        push: true
+        tags: adroaldojr/appointmentapi:v1
+
+    - name: Build and push Messaging API image
+      uses: docker/build-push-action@v2
+      with:
+        context: ./SaudeBemEstaApp.Messaging
+        file: ./SaudeBemEstaApp.Messaging/Dockerfile
+        push: true
+        tags: adroaldojr/messagingapi:v1
+
+    - name: Build and push Notifications API image
+      uses: docker/build-push-action@v2
+      with:
+        context: ./SaudeBemEstaApp.Notifications.API
+        file: ./SaudeBemEstaApp.Notifications.API/Dockerfile
+        push: true
+        tags: adroaldojr/notificationsapi:v1
+
+    - name: Build and push Prescription API image
+      uses: docker/build-push-action@v2
+      with:
+        context: ./SaudeBemEstaApp.Prescription.API
+        file: ./SaudeBemEstaApp.Prescription.API/Dockerfile
+        push: true
+        tags: adroaldojr/prescriptionapi:v1
+
