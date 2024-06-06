@@ -1,14 +1,12 @@
-name: Build and Push Docker images
+name: Deploy to Docker Hub
 
 on:
   push:
     branches:
-      - main
-    paths:
-      - 'SaudeBemEstaApp.*/**'
+      - main  # ou qualquer branch que você use para deployment
 
 jobs:
-  build-and-push:
+  build_and_push:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
@@ -20,46 +18,18 @@ jobs:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
 
-    - name: Build and push Activity API image
-      uses: docker/build-push-action@v2
-      with:
-        context: ./SaudeBemEstaApp.Activity.API
-        file: ./SaudeBemEstaApp.Activity.API/Dockerfile
-        push: true
-        tags: adroaldojr/activityapi:v1
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v1
 
-    - name: Build and push Appointment API image
+    - name: Build and push Docker images
       uses: docker/build-push-action@v2
       with:
-        context: ./SaudeBemEstaApp.Appointment.API
-        file: ./SaudeBemEstaApp.Appointment.API/Dockerfile
+        context: .
+        file: ./docker-compose.yml
         push: true
-        tags: adroaldojr/appointmentapi:v1
-
-    - name: Build and push Messaging API image
-      uses: docker/build-push-action@v2
-      with:
-        context: ./SaudeBemEstaApp.Messaging
-        file: ./SaudeBemEstaApp.Messaging/Dockerfile
-        push: true
-        tags: adroaldojr/messagingapi:v1
-
-    - name: Build and push Notifications API image
-      uses: docker/build-push-action@v2
-      with:
-        context: ./SaudeBemEstaApp.Notifications.API
-        file: ./SaudeBemEstaApp.Notifications.API/Dockerfile
-        push: true
-        tags: adroaldojr/notificationsapi:v1
-
-    - name: Build and push Prescription API image
-      uses: docker/build-push-action@v2
-      with:
-        context: ./SaudeBemEstaApp.Prescription.API
-        file: ./SaudeBemEstaApp.Prescription.API/Dockerfile
-        push: true
-        tags: adroaldojr/prescriptionapi:v1
-        
-    - name: Clean up
-        run: |
-          docker system prune -f
+        tags: |
+          adroaldojr/activityapi:v1
+          adroaldojr/appointmentapi:v1
+          adroaldojr/notificationsapi:v1
+          adroaldojr/patientapi:v1
+          adroaldojr/prescriptionapi:v1
