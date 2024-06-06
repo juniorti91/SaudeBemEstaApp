@@ -10,33 +10,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Fazer checkout do código
         uses: actions/checkout@v2
 
-      - name: Setup .NET
+      - name: Configurar .NET
         uses: actions/setup-dotnet@v2
         with:
           dotnet-version: '6.x' # Especifique a versão do .NET que você está usando
 
-      - name: Restore dependencies
-        run: dotnet restore
+      - name: Restaurar dependências
+        run: dotnet restore SaudeBemEstaApp.sln
 
-      - name: Build
-        run: dotnet build --configuration Release --no-restore
+      - name: Compilar
+        run: dotnet build SaudeBemEstaApp.sln --configuration Release --no-restore
 
-      - name: Publish
-        run: dotnet publish --configuration Release --no-restore -o ./publish
+      - name: Publicar
+        run: dotnet publish SaudeBemEstaApp.sln --configuration Release --no-restore -o ./publish
 
-      - name: Set up Docker Buildx
+      - name: Configurar Docker Buildx
         uses: docker/setup-buildx-action@v1
 
-      - name: Log in to Docker Hub
+      - name: Fazer login no Docker Hub
         uses: docker/login-action@v2
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
 
-      - name: Build and push Docker image
+      - name: Compilar e enviar a imagem Docker
         uses: docker/build-push-action@v2
         with:
           context: .
@@ -44,6 +44,6 @@ jobs:
           push: true
           tags: adroaldojr/saudebemestarapp:v1
 
-      - name: Clean up
+      - name: Limpar
         run: |
           docker system prune -f
