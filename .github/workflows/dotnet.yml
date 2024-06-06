@@ -25,7 +25,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         context: ./SaudeBemEstaApp
-        file: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API/Dockerfile
+        file: ./SaudeBemEstaApp/SaudeBemEstaApp.Activities.API/Dockerfile
         push: true
         tags: adroaldojr/activityapi:v3
 
