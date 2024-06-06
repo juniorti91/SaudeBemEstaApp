@@ -58,5 +58,5 @@ jobs:
         context: ./SaudeBemEstaApp.Prescription.API
         file: ./SaudeBemEstaApp.Prescription.API/Dockerfile
         push: true
-        tags: adroaldojr/prescriptionapi:v1
+        tags: adroaldojr/prescriptionapi:v2
 
