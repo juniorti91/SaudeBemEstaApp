@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OoRiLUGzExTNFGFLbZppEs2gq+1GhweQCTjB5HdE70WeNeEAYk/DQ6NWHVnoDBbrbl0taYnnm3KcigtAa/08FA==",
+  "dgSpecHash": "FzNQna9xtN8EqjAvCQCg7G8Y6sZDm4KvcgnomyAKoPaVGPsCpwhIQkONBXTdC+93oc/Jqdf+Aaj7csCJID/ftA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
+  "projectFilePath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adroaldo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\adroaldo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

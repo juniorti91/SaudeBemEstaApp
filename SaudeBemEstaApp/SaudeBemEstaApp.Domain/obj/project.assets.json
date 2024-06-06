@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
+      "projectUniqueName": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
       "projectName": "SaudeBemEstaApp.Domain",
-      "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
+      "projectPath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
       "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\obj\\",
+      "outputPath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1789,8 +1789,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
-              "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj"
+            "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
+              "projectPath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj"
             }
           }
         }

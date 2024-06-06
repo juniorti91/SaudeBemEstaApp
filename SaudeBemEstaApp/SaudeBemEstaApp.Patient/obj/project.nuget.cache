@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vpYpqo21+V282+Uc183GQ97vXMSLuNZJa7QiQU2XBeSzIXwHqkI/mbOAChvKVR8Ei+t4thc2D8mt9LWtO7/kcw==",
+  "dgSpecHash": "QOKVFfigbEf7XsZMRa9ZPNux0WiJ23bJRJ+pBGrp1jYTOFxEw8Z4m1hGrorimawcMy0V7lqDLJqPa106SdDyaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
+  "projectFilePath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adroaldo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\adroaldo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

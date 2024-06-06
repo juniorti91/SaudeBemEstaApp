@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {}
+    "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
+    "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
+        "projectUniqueName": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
         "projectName": "SaudeBemEstaApp.Messaging",
-        "projectPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
+        "projectPath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\SaudeBemEstaApp.Messaging.csproj",
         "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\obj\\",
+        "outputPath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Messaging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

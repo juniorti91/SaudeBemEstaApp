@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n1W1IAdiKJyB8HrKVOdDBRAro/i6AUfvRU7dUO6I+luhQFiPt+MKsgke8/I83N78v0MfODI4NDHjtFU2NWL24g==",
+  "dgSpecHash": "dXh0sn0bbaiFhuuXhoqL9r9ihsQtTCRl1Ses9P6Y+Zp6KEByAaO4cuYLQrMrHuby2tHRtRsYoN258tjjxUBsbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adroaldo\\Desktop\\02\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj",
+  "projectFilePath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adroaldo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\adroaldo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
