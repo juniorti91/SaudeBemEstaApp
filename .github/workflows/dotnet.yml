@@ -3,7 +3,7 @@ name: Deploy to Docker Hub
 on:
   push:
     branches:
-      - main  # ou qualquer branch que você use para deployment
+      - main
 
 jobs:
   build_and_push:
@@ -24,7 +24,7 @@ jobs:
     - name: Build and push activity-api
       uses: docker/build-push-action@v2
       with:
-        context: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API
+        context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API/Dockerfile
         push: true
         tags: adroaldojr/activityapi:v1
@@ -32,7 +32,7 @@ jobs:
     - name: Build and push appointment-api
       uses: docker/build-push-action@v2
       with:
-        context: ./SaudeBemEstaApp/SaudeBemEstaApp.Appointment.API
+        context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Appointment.API/Dockerfile
         push: true
         tags: adroaldojr/appointmentapi:v1
@@ -40,7 +40,7 @@ jobs:
     - name: Build and push notifications-api
       uses: docker/build-push-action@v2
       with:
-        context: ./SaudeBemEstaApp/SaudeBemEstaApp.Notifications.API
+        context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Notifications.API/Dockerfile
         push: true
         tags: adroaldojr/notificationsapi:v1
@@ -48,7 +48,7 @@ jobs:
     - name: Build and push patient-api
       uses: docker/build-push-action@v2
       with:
-        context: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient.API
+        context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient.API/Dockerfile
         push: true
         tags: adroaldojr/patientapi:v1
@@ -56,7 +56,7 @@ jobs:
     - name: Build and push prescription-api
       uses: docker/build-push-action@v2
       with:
-        context: ./SaudeBemEstaApp/SaudeBemEstaApp.Prescription.API
+        context: ./SaudeBemEstaApp
         file: ./SaudeBemEstaApp/SaudeBemEstaApp.Prescription.API/Dockerfile
         push: true
         tags: adroaldojr/prescriptionapi:v1
