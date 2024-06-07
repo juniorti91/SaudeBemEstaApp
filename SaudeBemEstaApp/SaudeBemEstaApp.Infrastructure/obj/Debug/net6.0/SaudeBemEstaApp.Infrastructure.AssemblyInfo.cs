@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaudeBemEstaApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+466eb9298d6afbfa0b8f6359eb2b144c6690d189")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+597af6a54b549947a88c9b9216982adda7df4071")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaudeBemEstaApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaudeBemEstaApp.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

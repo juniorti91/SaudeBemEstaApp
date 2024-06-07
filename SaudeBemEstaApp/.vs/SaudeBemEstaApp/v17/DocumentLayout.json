@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.prescription.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|solutionrelative:saudebemestaapp.prescription.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.patient\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|solutionrelative:saudebemestaapp.patient\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E2468FA-B781-4829-BB98-D1634123A8F0}|SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.notifications.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9E2468FA-B781-4829-BB98-D1634123A8F0}|SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj|solutionrelative:saudebemestaapp.notifications.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.appointment.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|solutionrelative:saudebemestaapp.appointment.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.activity.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|solutionrelative:saudebemestaapp.activity.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.prescription.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|solutionrelative:saudebemestaapp.prescription.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.prescription.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|solutionrelative:saudebemestaapp.prescription.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.activity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|solutionrelative:saudebemestaapp.activity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.activity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|solutionrelative:saudebemestaapp.activity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.prescription.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|solutionrelative:saudebemestaapp.prescription.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.prescription.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D30873B-B1F4-460C-97ED-4A81D420EE4C}|SaudeBemEstaApp.Prescription.API\\SaudeBemEstaApp.Prescriptions.API.csproj|solutionrelative:saudebemestaapp.prescription.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.patient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|solutionrelative:saudebemestaapp.patient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.patient\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|solutionrelative:saudebemestaapp.patient\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12758AA3-D679-48EF-9CA7-1E88D98DA194}|SaudeBemEstaApp.Patient\\SaudeBemEstaApp.Patients.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.patient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -51,16 +31,36 @@
       "RelativeMoniker": "D:0:0:{9E2468FA-B781-4829-BB98-D1634123A8F0}|SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj|solutionrelative:saudebemestaapp.notifications.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9E2468FA-B781-4829-BB98-D1634123A8F0}|SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.notifications.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9E2468FA-B781-4829-BB98-D1634123A8F0}|SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj|solutionrelative:saudebemestaapp.notifications.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E2468FA-B781-4829-BB98-D1634123A8F0}|SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.notifications.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9E2468FA-B781-4829-BB98-D1634123A8F0}|SaudeBemEstaApp.Notifications.API\\SaudeBemEstaApp.Notifications.API.csproj|solutionrelative:saudebemestaapp.notifications.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.appointment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|solutionrelative:saudebemestaapp.appointment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.appointment.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|solutionrelative:saudebemestaapp.appointment.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.appointment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|solutionrelative:saudebemestaapp.appointment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.appointment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D015A66A-A40F-4E9B-B23B-4C93547B7BD5}|SaudeBemEstaApp.Appointment.API\\SaudeBemEstaApp.Appointments.API.csproj|solutionrelative:saudebemestaapp.appointment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.activity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|solutionrelative:saudebemestaapp.activity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.activity.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|solutionrelative:saudebemestaapp.activity.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|c:\\users\\juniordev\\desktop\\saudebemestaapp\\saudebemestaapp\\saudebemestaapp.activity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB637946-7DF7-40BA-9732-EB924AFECBFA}|SaudeBemEstaApp.Activity.API\\SaudeBemEstaApp.Activities.API.csproj|solutionrelative:saudebemestaapp.activity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,201 +70,201 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\Dockerfile",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Prescription.API\\Dockerfile",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\Dockerfile",
-              "RelativeToolTip": "SaudeBemEstaApp.Prescription.API\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-07T02:18:58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Dockerfile",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\Dockerfile",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Dockerfile",
-              "RelativeToolTip": "SaudeBemEstaApp.Patient\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-07T02:18:53.376Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\Program.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Prescription.API\\Program.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\Program.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Prescription.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:01:41.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\Dockerfile",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Notifications.API\\Dockerfile",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\Dockerfile",
-              "RelativeToolTip": "SaudeBemEstaApp.Notifications.API\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\Dockerfile",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Prescription.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\Dockerfile",
+              "RelativeToolTip": "SaudeBemEstaApp.Prescription.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-07T02:18:48.09Z",
+              "WhenOpened": "2024-06-07T03:01:36.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\Dockerfile",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Appointment.API\\Dockerfile",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\Dockerfile",
-              "RelativeToolTip": "SaudeBemEstaApp.Appointment.API\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-07T02:18:38.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\Program.cs",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Prescription.API\\Program.cs",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\Program.cs",
-              "RelativeToolTip": "SaudeBemEstaApp.Prescription.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T02:00:12.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\appsettings.json",
               "RelativeDocumentMoniker": "SaudeBemEstaApp.Prescription.API\\appsettings.json",
               "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Prescription.API\\appsettings.json",
               "RelativeToolTip": "SaudeBemEstaApp.Prescription.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-07T02:00:03.753Z",
+              "WhenOpened": "2024-06-07T03:01:28.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Program.cs",
               "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\Program.cs",
               "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Program.cs",
               "RelativeToolTip": "SaudeBemEstaApp.Patient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:59:52.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\appsettings.json",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\appsettings.json",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\appsettings.json",
-              "RelativeToolTip": "SaudeBemEstaApp.Patient\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-07T01:59:45.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\Program.cs",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Notifications.API\\Program.cs",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\Program.cs",
-              "RelativeToolTip": "SaudeBemEstaApp.Notifications.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:59:27.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\appsettings.json",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Notifications.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\appsettings.json",
-              "RelativeToolTip": "SaudeBemEstaApp.Notifications.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-07T01:59:19.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\Program.cs",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Appointment.API\\Program.cs",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\Program.cs",
-              "RelativeToolTip": "SaudeBemEstaApp.Appointment.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:58:57.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\appsettings.json",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Appointment.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\appsettings.json",
-              "RelativeToolTip": "SaudeBemEstaApp.Appointment.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-07T01:58:47.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\Program.cs",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Activity.API\\Program.cs",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\Program.cs",
-              "RelativeToolTip": "SaudeBemEstaApp.Activity.API\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:57:11.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\appsettings.json",
-              "RelativeDocumentMoniker": "SaudeBemEstaApp.Activity.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\appsettings.json",
-              "RelativeToolTip": "SaudeBemEstaApp.Activity.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-07T01:57:00.636Z",
+              "WhenOpened": "2024-06-07T03:01:05.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Dockerfile",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\Dockerfile",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\Dockerfile",
+              "RelativeToolTip": "SaudeBemEstaApp.Patient\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-07T03:00:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\appsettings.json",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Patient\\appsettings.json",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Patient\\appsettings.json",
+              "RelativeToolTip": "SaudeBemEstaApp.Patient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T03:00:50.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\Program.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Notifications.API\\Program.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\Program.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Notifications.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:00:34.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\Dockerfile",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Notifications.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\Dockerfile",
+              "RelativeToolTip": "SaudeBemEstaApp.Notifications.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-07T03:00:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Notifications.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Notifications.API\\appsettings.json",
+              "RelativeToolTip": "SaudeBemEstaApp.Notifications.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T03:00:19.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\Program.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Appointment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\Program.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Appointment.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:59:56.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\Dockerfile",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Appointment.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\Dockerfile",
+              "RelativeToolTip": "SaudeBemEstaApp.Appointment.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-07T02:59:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Appointment.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Appointment.API\\appsettings.json",
+              "RelativeToolTip": "SaudeBemEstaApp.Appointment.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T02:59:10.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\Program.cs",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Activity.API\\Program.cs",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\Program.cs",
+              "RelativeToolTip": "SaudeBemEstaApp.Activity.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T02:58:30.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\Dockerfile",
               "RelativeDocumentMoniker": "SaudeBemEstaApp.Activity.API\\Dockerfile",
               "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\Dockerfile",
               "RelativeToolTip": "SaudeBemEstaApp.Activity.API\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-07T01:56:59.151Z",
+              "WhenOpened": "2024-06-07T02:58:15.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SaudeBemEstaApp.Activity.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\JuniorDev\\Desktop\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Activity.API\\appsettings.json",
+              "RelativeToolTip": "SaudeBemEstaApp.Activity.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T02:58:04.071Z",
               "EditorCaption": ""
             }
           ]

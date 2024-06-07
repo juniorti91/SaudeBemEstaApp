@@ -13,15 +13,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Buscar a string de conexão diretamente da variável de ambiente
-var connectionString = Environment.GetEnvironmentVariable("DATABASE_CONNECTION_STRING");
-if (string.IsNullOrEmpty(connectionString))
-{
-    throw new InvalidOperationException("The connection string was not found in environment variables.");
-}
-
+// Adicionado serviço de conexão ao banco
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(connectionString));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Adicionado serviços das Dependências
 builder.Services.AddScoped<INotificationRepository, NotificationRepository>();

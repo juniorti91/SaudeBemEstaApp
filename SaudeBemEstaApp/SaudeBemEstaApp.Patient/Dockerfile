@@ -3,7 +3,7 @@
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
 EXPOSE 80
-EXPOSE 443
+#EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 ARG BUILD_CONFIGURATION=Release
@@ -23,5 +23,4 @@ RUN dotnet publish "./SaudeBemEstaApp.Patients.API.csproj" -c $BUILD_CONFIGURATI
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENV DATABASE_CONNECTION_STRING=""
 ENTRYPOINT ["dotnet", "SaudeBemEstaApp.Patients.API.dll"]
