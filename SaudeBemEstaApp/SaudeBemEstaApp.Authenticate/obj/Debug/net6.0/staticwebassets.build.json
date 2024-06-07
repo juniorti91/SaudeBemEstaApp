@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SYpIpTdKn5CEFsnFYH1oZv12tDwWUK75FcABGNtHMic=",
+  "Source": "SaudeBemEstaApp.Authenticate",
+  "BasePath": "_content/SaudeBemEstaApp.Authenticate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

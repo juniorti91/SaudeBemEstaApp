@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using SaudeBemEstaApp.Domain.Entities;
 using SaudeBemEstaApp.Domain.Interfaces;
 
 namespace SaudeBemEstaApp.Appointments.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class AppointmentController : ControllerBase

@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens
 		docker-compose.yml = docker-compose.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaudeBemEstaApp.Authenticate", "SaudeBemEstaApp.Authenticate\SaudeBemEstaApp.Authenticate.csproj", "{D27E4A10-2F3A-4166-BFF9-1F7BE0BF6DE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E2468FA-B781-4829-BB98-D1634123A8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27E4A10-2F3A-4166-BFF9-1F7BE0BF6DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27E4A10-2F3A-4166-BFF9-1F7BE0BF6DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27E4A10-2F3A-4166-BFF9-1F7BE0BF6DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27E4A10-2F3A-4166-BFF9-1F7BE0BF6DE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

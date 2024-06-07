@@ -12,6 +12,7 @@ namespace SaudeBemEstaApp.Infrastructure.Context
         public DbSet<Prescription> Prescriptions { get; set; }
         public DbSet<Activity> Activities { get; set; }
         public DbSet<Notification> Notifications { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
