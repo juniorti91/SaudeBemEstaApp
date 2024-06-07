@@ -8,7 +8,7 @@ namespace SaudeBemEstaApp.Domain.Services
     {
         private readonly IPatientRepository _patientRepository;
 
-        public PatientService(IPatientRepository patientRepository, RabbitMQPublisher publisher)
+        public PatientService(IPatientRepository patientRepository)
         {
             _patientRepository = patientRepository;
         }
