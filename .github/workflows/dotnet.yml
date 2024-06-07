@@ -26,7 +26,7 @@ jobs:
 
     - name: Build and push Docker images
       env:
-        DB_CONNECTION_STRING: ${{ secrets.DB_CONNECTION_STRING }}
+        DATABASE_CONNECTION_STRING: ${{ secrets.DATABASE_CONNECTION_STRING }}
       run: |
         cd SaudeBemEstaApp
         docker-compose -f docker-compose.yml build
