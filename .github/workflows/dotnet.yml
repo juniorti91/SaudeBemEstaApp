@@ -8,6 +8,8 @@ on:
 jobs:
   build_and_push:
     runs-on: ubuntu-latest
+    env:
+      DB_CONNECTION_STRING: ${{ secrets.DB_CONNECTION_STRING }}
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
@@ -22,7 +24,7 @@ jobs:
       uses: docker/setup-buildx-action@v1
 
     - name: List files
-      run: ls -R
+      run: ls -R SaudeBemEstaApp
 
     - name: Build and push Docker images
       run: |
