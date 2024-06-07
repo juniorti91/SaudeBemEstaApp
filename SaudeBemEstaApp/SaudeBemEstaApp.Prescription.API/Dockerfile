@@ -22,4 +22,5 @@ RUN dotnet publish "./SaudeBemEstaApp.Prescriptions.API.csproj" -c $BUILD_CONFIG
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+ENV ConnectionStrings__DefaultConnection=${DB_CONNECTION_STRING}
 ENTRYPOINT ["dotnet", "SaudeBemEstaApp.Prescriptions.API.dll"]
