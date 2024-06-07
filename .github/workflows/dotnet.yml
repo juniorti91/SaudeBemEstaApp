@@ -22,9 +22,11 @@ jobs:
       uses: docker/setup-buildx-action@v1
 
     - name: List files
-      run: ls -R
+      run: ls -R SaudeBemEstaApp
 
     - name: Build and push Docker images
+      env:
+        DATABASE_CONNECTION_STRING: ${{ secrets.DATABASE_CONNECTION_STRING }}
       run: |
         cd SaudeBemEstaApp
         docker-compose -f docker-compose.yml build
