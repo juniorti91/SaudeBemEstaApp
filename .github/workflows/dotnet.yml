@@ -21,6 +21,9 @@ jobs:
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v1
 
+    - name: Change directory to SaudeBemEstaApp
+      run: cd SaudeBemEstaApp
+
     - name: Build and push Docker images
       run: |
         docker-compose -f docker-compose.yml build
