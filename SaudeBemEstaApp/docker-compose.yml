@@ -3,7 +3,7 @@ version: '3.8'
 services:
   activity-api:
     build:
-      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Activities.API
+      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API
       args:
         BUILD_CONFIGURATION: Release
     image: adroaldojr/activityapi:v1
