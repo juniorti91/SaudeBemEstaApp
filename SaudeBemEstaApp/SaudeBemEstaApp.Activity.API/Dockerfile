@@ -14,6 +14,7 @@ COPY ["SaudeBemEstaApp.Infrastructure/SaudeBemEstaApp.Infrastructure.csproj", "S
 RUN dotnet restore "./SaudeBemEstaApp.Activity.API/SaudeBemEstaApp.Activities.API.csproj"
 COPY . .
 WORKDIR "/src/SaudeBemEstaApp.Activity.API"
+RUN ls -al  # Listar arquivos para depuração
 RUN dotnet build "SaudeBemEstaApp.Activities.API.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 FROM build AS publish
