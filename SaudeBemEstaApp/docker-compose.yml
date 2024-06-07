@@ -2,37 +2,54 @@ version: '3.8'
 
 services:
   activity-api:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API
-    image: adroaldojr/activityapi:v3
+    build:
+      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API
+      args:
+        BUILD_CONFIGURATION: Release
+    image: adroaldojr/activityapi:v1
     ports:
       - "8001:80"
 
   appointment-api:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Appointment.API
-    image: adroaldojr/appointmentapi:v3
+    build:
+      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Appointment.API
+      args:
+        BUILD_CONFIGURATION: Release
+    image: adroaldojr/appointmentapi:v1
     ports:
       - "8002:80"
 
   notifications-api:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Notifications.API
-    image: adroaldojr/notificationsapi:v3
+    build:
+      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Notifications.API
+      args:
+        BUILD_CONFIGURATION: Release
+    image: adroaldojr/notificationsapi:v1
     ports:
       - "8003:80"
 
   patient-api:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient
-    image: adroaldojr/patientapi:v3
+    build:
+      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient.API
+      args:
+        BUILD_CONFIGURATION: Release
+    image: adroaldojr/patientapi:v1
     ports:
       - "8004:80"
 
   prescription-api:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Prescription.API
-    image: adroaldojr/prescriptionapi:v3
+    build:
+      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Prescription.API
+      args:
+        BUILD_CONFIGURATION: Release
+    image: adroaldojr/prescriptionapi:v1
     ports:
       - "8005:80"
 
   domain:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Domain
+    build:
+      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Domain
 
   infrastructure:
-    build: ./SaudeBemEstaApp/SaudeBemEstaApp.Infrastructure
+    build:
+      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Infrastructure
