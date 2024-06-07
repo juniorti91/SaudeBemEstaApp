@@ -7,7 +7,7 @@ services:
       dockerfile: SaudeBemEstaApp.Activity.API/Dockerfile
       args:
         BUILD_CONFIGURATION: Release
-    image: adroaldojr/activityapi:v1
+    image: adroaldojr/activityapi:v2
     ports:
       - "8001:80"
 
@@ -17,7 +17,7 @@ services:
       dockerfile: SaudeBemEstaApp.Appointment.API/Dockerfile
       args:
         BUILD_CONFIGURATION: Release
-    image: adroaldojr/appointmentapi:v1
+    image: adroaldojr/appointmentapi:v2
     ports:
       - "8002:80"
 
@@ -27,7 +27,7 @@ services:
       dockerfile: SaudeBemEstaApp.Notifications.API/Dockerfile
       args:
         BUILD_CONFIGURATION: Release
-    image: adroaldojr/notificationsapi:v1
+    image: adroaldojr/notificationsapi:v2
     ports:
       - "8003:80"
 
@@ -37,7 +37,7 @@ services:
       dockerfile: SaudeBemEstaApp.Patient.API/Dockerfile
       args:
         BUILD_CONFIGURATION: Release
-    image: adroaldojr/patientapi:v1
+    image: adroaldojr/patientapi:v2
     ports:
       - "8004:80"
 
@@ -47,7 +47,7 @@ services:
       dockerfile: SaudeBemEstaApp.Prescription.API/Dockerfile
       args:
         BUILD_CONFIGURATION: Release
-    image: adroaldojr/prescriptionapi:v1
+    image: adroaldojr/prescriptionapi:v2
     ports:
       - "8005:80"
 
