@@ -34,7 +34,7 @@ services:
   patient-api:
     build:
       context: .
-      dockerfile: SaudeBemEstaApp.Patient.API/Dockerfile
+      dockerfile: SaudeBemEstaApp.Patient/Dockerfile
       args:
         BUILD_CONFIGURATION: Release
     image: adroaldojr/patientapi:v2
