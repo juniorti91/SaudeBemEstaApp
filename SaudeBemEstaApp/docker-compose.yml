@@ -3,7 +3,7 @@ version: '3.8'
 services:
   activity-api:
     build:
-      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Activity.API
+      context: ./SaudeBemEstaApp.Activity.API
       args:
         BUILD_CONFIGURATION: Release
     image: adroaldojr/activityapi:v1
@@ -12,7 +12,7 @@ services:
 
   appointment-api:
     build:
-      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Appointment.API
+      context: ./SaudeBemEstaApp.Appointment.API
       args:
         BUILD_CONFIGURATION: Release
     image: adroaldojr/appointmentapi:v1
@@ -21,7 +21,7 @@ services:
 
   notifications-api:
     build:
-      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Notifications.API
+      context: ./SaudeBemEstaApp.Notifications.API
       args:
         BUILD_CONFIGURATION: Release
     image: adroaldojr/notificationsapi:v1
@@ -30,7 +30,7 @@ services:
 
   patient-api:
     build:
-      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Patient.API
+      context: ./SaudeBemEstaApp.Patient
       args:
         BUILD_CONFIGURATION: Release
     image: adroaldojr/patientapi:v1
@@ -39,7 +39,7 @@ services:
 
   prescription-api:
     build:
-      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Prescription.API
+      context: ./SaudeBemEstaApp.Prescription.API
       args:
         BUILD_CONFIGURATION: Release
     image: adroaldojr/prescriptionapi:v1
@@ -48,8 +48,8 @@ services:
 
   domain:
     build:
-      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Domain
+      context: ./SaudeBemEstaApp.Domain
 
   infrastructure:
     build:
-      context: ./SaudeBemEstaApp/SaudeBemEstaApp.Infrastructure
+      context: ./SaudeBemEstaApp.Infrastructure
