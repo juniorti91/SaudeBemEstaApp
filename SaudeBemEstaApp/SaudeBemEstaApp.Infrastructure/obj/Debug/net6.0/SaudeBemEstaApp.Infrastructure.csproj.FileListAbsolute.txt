@@ -27,7 +27,6 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.AssemblyInfoInputs.cache
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.AssemblyInfo.cs
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.csproj.CoreCompileInputs.cache
-C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.csproj.CopyComplete
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\refint\SaudeBemEstaApp.Infrastructure.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.pdb
@@ -54,3 +53,5 @@ C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Inf
 C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.pdb
 C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.genruntimeconfig.cache
 C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\ref\SaudeBemEstaApp.Infrastructure.dll
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.sourcelink.json
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBem.03817D39.Up2Date

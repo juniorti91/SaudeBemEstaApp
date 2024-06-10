@@ -41,3 +41,4 @@ C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Dom
 C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.pdb
 C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\ref\SaudeBemEstaApp.Domain.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.csproj.AssemblyReference.cache
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Domain\obj\Debug\net6.0\SaudeBemEstaApp.Domain.sourcelink.json

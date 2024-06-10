@@ -13,7 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-// Adicionado Autenticação JWT
+// Adicionado AutenticaÃ§Ã£o JWT
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -66,11 +66,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Adicionado serviço de conexão ao banco
+// Adicionado serviï¿½o de conexï¿½o ao banco
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Adicionando serviços das Dependências
+// Adicionando serviï¿½os das Dependï¿½ncias
 builder.Services.AddScoped<IPrescriptionRepository, PrescriptionRepository>();
 builder.Services.AddScoped<IPrescriptionService, PrescriptionService>();
 
@@ -98,3 +98,5 @@ app.UseEndpoints(endpoints =>
 });
 
 app.MapControllers();
+
+app.Run();

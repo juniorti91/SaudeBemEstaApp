@@ -137,7 +137,6 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\staticwebassets.build.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\staticwebassets.development.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\scopedcss\bundle\SaudeBemEstaApp.Patients.API.styles.css
-C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patients.API.csproj.CopyComplete
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patients.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\refint\SaudeBemEstaApp.Patients.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patients.API.pdb
@@ -243,3 +242,5 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patients.API.sourcelink.json
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBem.47DD9552.Up2Date

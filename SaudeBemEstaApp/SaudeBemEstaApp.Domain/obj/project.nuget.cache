@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nkb/ehqubXJ4jW/jIy/h8YVjL54D6hy+RPKN4GiMvFoXRuS7fiVH364takG5m7Sp9+9XIxUgdc6XK7y9OLsucg==",
+  "dgSpecHash": "wQ64WqaX7Zo=",
   "success": true,
   "projectFilePath": "C:\\JPProjects\\SaudeBemEstaApp\\SaudeBemEstaApp\\SaudeBemEstaApp.Domain\\SaudeBemEstaApp.Domain.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,10 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\adroaldo\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
     "C:\\Users\\adroaldo\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
-    "C:\\Users\\adroaldo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\adroaldo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\adroaldo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\adroaldo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\adroaldo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }

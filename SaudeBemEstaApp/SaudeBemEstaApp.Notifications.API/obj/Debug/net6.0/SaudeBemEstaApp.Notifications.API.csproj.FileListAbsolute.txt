@@ -141,9 +141,10 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\staticwebassets.development.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\scopedcss\bundle\SaudeBemEstaApp.Notifications.API.styles.css
-C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\SaudeBemEstaApp.Notifications.API.csproj.CopyComplete
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\SaudeBemEstaApp.Notifications.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\refint\SaudeBemEstaApp.Notifications.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\SaudeBemEstaApp.Notifications.API.pdb
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\SaudeBemEstaApp.Notifications.API.genruntimeconfig.cache
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\ref\SaudeBemEstaApp.Notifications.API.dll
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\SaudeBemEstaApp.Notifications.API.sourcelink.json
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\SaudeBem.DB02400E.Up2Date

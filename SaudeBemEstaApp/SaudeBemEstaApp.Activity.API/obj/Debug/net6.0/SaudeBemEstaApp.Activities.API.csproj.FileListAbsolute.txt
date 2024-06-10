@@ -141,9 +141,10 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\D
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\staticwebassets.development.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\scopedcss\bundle\SaudeBemEstaApp.Activities.API.styles.css
-C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\SaudeBemEstaApp.Activities.API.csproj.CopyComplete
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\SaudeBemEstaApp.Activities.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\refint\SaudeBemEstaApp.Activities.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\SaudeBemEstaApp.Activities.API.pdb
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\SaudeBemEstaApp.Activities.API.genruntimeconfig.cache
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\ref\SaudeBemEstaApp.Activities.API.dll
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\SaudeBemEstaApp.Activities.API.sourcelink.json
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Activity.API\obj\Debug\net6.0\SaudeBem.8D13675B.Up2Date

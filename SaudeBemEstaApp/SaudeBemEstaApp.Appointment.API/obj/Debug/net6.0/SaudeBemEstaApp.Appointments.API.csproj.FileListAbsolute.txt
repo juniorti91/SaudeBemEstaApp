@@ -137,7 +137,6 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\ob
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\staticwebassets.development.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\scopedcss\bundle\SaudeBemEstaApp.Appointments.API.styles.css
-C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\SaudeBemEstaApp.Appointments.API.csproj.CopyComplete
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\SaudeBemEstaApp.Appointments.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\refint\SaudeBemEstaApp.Appointments.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\SaudeBemEstaApp.Appointments.API.pdb
@@ -147,3 +146,5 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bi
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\SaudeBemEstaApp.Appointments.API.sourcelink.json
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\SaudeBem.B1F8DC55.Up2Date

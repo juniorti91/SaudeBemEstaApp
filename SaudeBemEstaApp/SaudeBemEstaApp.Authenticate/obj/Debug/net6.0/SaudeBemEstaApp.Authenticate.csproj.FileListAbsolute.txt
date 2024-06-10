@@ -68,9 +68,10 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\D
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\staticwebassets.build.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\staticwebassets.development.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\scopedcss\bundle\SaudeBemEstaApp.Authenticate.styles.css
-C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\SaudeBemEstaApp.Authenticate.csproj.CopyComplete
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\SaudeBemEstaApp.Authenticate.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\refint\SaudeBemEstaApp.Authenticate.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\SaudeBemEstaApp.Authenticate.pdb
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\SaudeBemEstaApp.Authenticate.genruntimeconfig.cache
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\ref\SaudeBemEstaApp.Authenticate.dll
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\SaudeBemEstaApp.Authenticate.sourcelink.json
+C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Authenticate\obj\Debug\net6.0\SaudeBem.A2531714.Up2Date
