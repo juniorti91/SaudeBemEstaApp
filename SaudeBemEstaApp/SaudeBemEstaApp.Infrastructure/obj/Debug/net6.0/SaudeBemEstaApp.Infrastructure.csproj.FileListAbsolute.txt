@@ -32,8 +32,6 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.pdb
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\SaudeBemEstaApp.Infrastructure.genruntimeconfig.cache
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\obj\Debug\net6.0\ref\SaudeBemEstaApp.Infrastructure.dll
-C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\bin\Debug\net6.0\SaudeBemEstaApp.Messaging.dll
-C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\bin\Debug\net6.0\SaudeBemEstaApp.Messaging.pdb
 C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\bin\Debug\net6.0\SaudeBemEstaApp.Infrastructure.deps.json
 C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\bin\Debug\net6.0\SaudeBemEstaApp.Infrastructure.runtimeconfig.json
 C:\Users\adroaldo\Desktop\02\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Infrastructure\bin\Debug\net6.0\SaudeBemEstaApp.Infrastructure.dll

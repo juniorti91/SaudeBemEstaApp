@@ -148,3 +148,7 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\ref\SaudeBemEstaApp.Notifications.API.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\SaudeBemEstaApp.Notifications.API.sourcelink.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\obj\Debug\net6.0\SaudeBem.DB02400E.Up2Date
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Notifications.API\bin\Debug\net6.0\System.Threading.Channels.dll

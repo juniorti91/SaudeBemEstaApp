@@ -244,3 +244,7 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\net6.0\System.Threading.Channels.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBemEstaApp.Patients.API.sourcelink.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\obj\Debug\net6.0\SaudeBem.47DD9552.Up2Date
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Patient\bin\Debug\net6.0\System.Threading.Channels.dll

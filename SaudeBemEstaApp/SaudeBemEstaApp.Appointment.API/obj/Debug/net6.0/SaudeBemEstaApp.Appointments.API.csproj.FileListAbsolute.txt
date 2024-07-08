@@ -148,3 +148,7 @@ C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bi
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bin\Debug\net6.0\System.Threading.Channels.dll
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\SaudeBemEstaApp.Appointments.API.sourcelink.json
 C:\JPProjects\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\obj\Debug\net6.0\SaudeBem.B1F8DC55.Up2Date
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\JuniorDev\Desktop\SaudeBemEstaApp\SaudeBemEstaApp\SaudeBemEstaApp.Appointment.API\bin\Debug\net6.0\System.Threading.Channels.dll
