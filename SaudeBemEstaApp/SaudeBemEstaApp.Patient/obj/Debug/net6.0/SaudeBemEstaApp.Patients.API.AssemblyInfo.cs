@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaudeBemEstaApp.Patients.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59dcf5e4e557a4e71990ff1527a1763a73317202")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70be567dd5a30376fb964583b9648ba075fb388d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaudeBemEstaApp.Patients.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaudeBemEstaApp.Patients.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
