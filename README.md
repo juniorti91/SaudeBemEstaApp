@@ -17,7 +17,15 @@ API REST desenvolvida em **ASP.NET Core** com foco em aplicações de saúde e b
 ---
 
 ## 📁 Estrutura do Projeto
-SaudeBemEstaApp/ ├── Controllers/ # Controladores da API ├── Models/ # Modelos de domínio ├── Data/ # DbContext e Migrations ├── Services/ # Regras de negócio ├── DTOs/ # Data Transfer Objects ├── Program.cs # Configuração principal da aplicação └── appsettings.json # Configurações do projeto
+
+- SaudeBemEstaApp/ ├── Controllers/ 
+- Controladores da API ├── Models/
+- Modelos de domínio ├── Data/
+- DbContext e Migrations ├── Services/
+- Regras de negócio ├── DTOs/
+- Data Transfer Objects ├── Program.cs
+- Configuração principal da aplicação └── appsettings.json
+- Configurações do projeto
 
 ---
 
